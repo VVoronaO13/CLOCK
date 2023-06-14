@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	
+}
+
+#time {
+	color: white;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 128px;
+	line-height: 128px;
+	margin-top: 10%;
+}
+
+p {
+	color: white;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 32px;
+	margin-top: 10%;
+}
+.version {
+	color: white;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 32px;
+	margin-top: 1%;
+}
+
+
+img {
+	margin-top: 25px;
+
+}
